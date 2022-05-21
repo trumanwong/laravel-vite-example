@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "scripts": {
+      "dev": "vite",
+      "production": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^0.21",
+        "lodash": "^4.17.19",
+        "vite": "^2.9.9"
+    }
+}
